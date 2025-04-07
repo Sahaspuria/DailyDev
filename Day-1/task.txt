@@ -1,0 +1,10 @@
+🧪 Practice Idea:
+Build a simple React app that:
+
+Takes user input via props
+
+Displays dynamic content using state
+
+Uses multiple components
+
+Example: A basic user profile card with name, age, and a Inputs to update the state dynamically.
