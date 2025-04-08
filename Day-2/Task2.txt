@@ -1,0 +1,6 @@
+🧪 Practice Idea:
+✅ Built a Counter button using useState
+✅ Used useEffect to auto-update time and clean up intervals
+✅ Practiced useRef to focus an input field on load
+
+Bonus: Add a counter that increments every second and pauses/resets on button click
