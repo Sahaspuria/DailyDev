@@ -1,0 +1,7 @@
+🧪 Practice Idea:
+ ✅ Built a 3-page app (Home, About, Contact)
+ ✅ Navigated using <Link>
+ ✅ Used useNavigate for redirect button
+ ✅ Created separate components for each route
+
+💡 Bonus: Add a 404 route for unmatched URLs and style the nav bar using Tailwind
