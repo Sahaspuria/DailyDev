@@ -27,8 +27,8 @@ A simple and clean React app to **track your daily mood** and optionally add not
 ## 📦 Installation
 
 ```bash
-git clone
-cd mood-tracker-app
+download the folder
+go to directory
 npm install
 npm start
 ```
