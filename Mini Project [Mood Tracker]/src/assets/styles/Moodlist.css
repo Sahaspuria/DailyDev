@@ -1,0 +1,17 @@
+.moodlist-container {
+  border: 1px solid #687480;
+  width: 80vw;
+  margin-top: 2rem;
+  border-radius: 10px;
+  padding: 1rem;
+}
+.moodlist-container .moodlist-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 1rem;
+}
+.moodlist-container .card-container {
+  border: 1px solid blue;
+  padding: 0.75rem;
+  border-radius: 5px;
+}

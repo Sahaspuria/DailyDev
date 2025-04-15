@@ -1,0 +1,58 @@
+/* About Page Styling */
+.about-container {
+  font-family: Arial, sans-serif;
+  margin-top: 2rem;
+  padding: 0;
+  background-color: #f4f4f9;
+}
+
+.about-header {
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.about-main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.tech-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tech-list li {
+  margin: 5px 0;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.usage-instructions {
+  margin-top: 2rem;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}

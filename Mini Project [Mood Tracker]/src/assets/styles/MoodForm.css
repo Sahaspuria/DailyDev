@@ -1,0 +1,18 @@
+.mood-list {
+  height: 2.5rem;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  padding: 0.25rem;
+  margin-right: 1rem;
+  border: 1px solid #f4f4f4;
+}
+
+.mood-input {
+  height: 2.5rem;
+  border-radius: 5px;
+  outline: none;
+  border: 0.5px solid #687480;
+  padding: 0 0.5rem;
+  margin-right: 1rem;
+}
